@@ -1,6 +1,6 @@
 # <Practice Flutter UI>
 
-## Instagram UI skeleton design
+## Tiktok UI
 
 <hr>
 
@@ -28,7 +28,14 @@
 - Dart
 - Flutter
 
-## Lession learnt
+## Widgets
 
--
--
+- [BottomNavigationBar]
+- [Stack]
+- [RichText]
+- [Alignment]
+
+[1]: https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html "BottomNavigationBar"
+[2]: https://api.flutter.dev/flutter/widgets/Stack-class.html "Stack"
+[3]: https://api.flutter.dev/flutter/widgets/RichText-class.html "RichText"
+[3]: https://api.flutter.dev/flutter/painting/Alignment-class.html "RichText"
