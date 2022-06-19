@@ -2,7 +2,6 @@
 
 ## Tiktok UI
 
-<hr>
 
 ## Demo
 
@@ -18,10 +17,9 @@
     <td><img src="ss/account.png" width="100%" height="70%" /></td>
     <td><img src="ss/shop.png" width="100%" height="70%" /></td>
   </tr>
-   
- </table>
-<br/><hr><br/>
 
+ </table>
+<br/><hr>
 
 ## Stacks
 
@@ -30,12 +28,7 @@
 
 ## Widgets
 
-- [BottomNavigationBar]
-- [Stack]
-- [RichText]
-- [Alignment]
-
-[1]: https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html "BottomNavigationBar"
-[2]: https://api.flutter.dev/flutter/widgets/Stack-class.html "Stack"
-[3]: https://api.flutter.dev/flutter/widgets/RichText-class.html "RichText"
-[3]: https://api.flutter.dev/flutter/painting/Alignment-class.html "RichText"
+- [BottomNavigationBar](https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html)
+- [Stack](https://api.flutter.dev/flutter/widgets/Stack-class.html)
+- [RichText](https://api.flutter.dev/flutter/widgets/RichText-class.html)
+- [Alignment](https://api.flutter.dev/flutter/painting/Alignment-class.html)
