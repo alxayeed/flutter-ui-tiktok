@@ -19,7 +19,7 @@ class MyButton extends StatelessWidget {
           const SizedBox(
             height: 10.0,
           ),
-          Text("$number")
+          Text(number)
         ],
       ),
     );
