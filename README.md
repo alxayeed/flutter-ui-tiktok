@@ -7,15 +7,15 @@
 
 <table>
   <tr>
-    <td>Home</td>
-    <td>Account</td>
-    <td>Shop</td>
+    <td>Home 1</td>
+    <td>Home 2</td>
+    <td>Profile</td>
   </tr>
   
   <tr>
-    <td><img src="ss/home.png" width="100%" height="70%" /></td>
-    <td><img src="ss/account.png" width="100%" height="70%" /></td>
-    <td><img src="ss/shop.png" width="100%" height="70%" /></td>
+    <td><img src="ss/home1.png" width="100%" height="70%" /></td>
+    <td><img src="ss/home2.png" width="100%" height="70%" /></td>
+    <td><img src="ss/profile.png" width="100%" height="70%" /></td>
   </tr>
 
  </table>
@@ -32,3 +32,7 @@
 - [Stack](https://api.flutter.dev/flutter/widgets/Stack-class.html)
 - [RichText](https://api.flutter.dev/flutter/widgets/RichText-class.html)
 - [Alignment](https://api.flutter.dev/flutter/painting/Alignment-class.html)
+- [DefaultTabController]()
+- [TabBar]()
+- [TabBarView]()
+- [GridView]()
